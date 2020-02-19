@@ -1,8 +1,12 @@
 # Top venues around NYC's universities
 
-## 1.Business Problem
+## 1.1 Business Problem
 
 The idea from this project is to help who want to gain benefits from the trending venues around to the universities of the New York City such as student's services stores owners who want to open their stores near to places visible and known by providing a clear understanding of the trending places around the top universities and academies in New York City and clustering them based on their common characteristics and that will help them in making their decision.
+
+## 1.2 Interest
+
+The targeted audience of this project are those who want to make a business targeting the students, such as students' services stores,  coffee shops dedicated to the study and so on, and want to open their business in places known and visible by the students and obtain a competitive advantage.
 
 ## 2.Data acquisition and cleaning
 
